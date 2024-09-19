@@ -18,7 +18,7 @@
 
 <!-- Vistas del perfil -->
 <div id="Profile_views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kaiser42&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Kaiser-bot&style=flat-square&color=blue" alt="Profile views"/>
 </div>
 
 ---
@@ -49,6 +49,6 @@ I am a student of multiplatform application development in Spain <img src="https
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kaiser42&theme=great-gatsby&locale=es&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kaiser-bot2&theme=great-gatsby&locale=es&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 ### :boom: My Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiser42&&langs_count=3&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiser-bot&&langs_count=3&layout=compact&theme=vision-friendly-dark)
