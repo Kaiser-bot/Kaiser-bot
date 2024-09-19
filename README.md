@@ -49,6 +49,6 @@ I am a student of multiplatform application development in Spain <img src="https
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kaiser-bot2&theme=great-gatsby&locale=es&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kaiser-bot&theme=highcontrast&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 ### :boom: My Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiser-bot&&langs_count=3&layout=compact&theme=vision-friendly-dark)
